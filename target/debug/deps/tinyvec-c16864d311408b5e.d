@@ -1,0 +1,11 @@
+/Users/nikita/Projects/tzs/annoying_nastya/task_4_contracts/target/debug/deps/libtinyvec-c16864d311408b5e.rmeta: /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/lib.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/array.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/array/generated_impl.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/arrayvec.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/arrayvec_drain.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/slicevec.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/tinyvec.rs
+
+/Users/nikita/Projects/tzs/annoying_nastya/task_4_contracts/target/debug/deps/tinyvec-c16864d311408b5e.d: /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/lib.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/array.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/array/generated_impl.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/arrayvec.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/arrayvec_drain.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/slicevec.rs /Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/tinyvec.rs
+
+/Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/lib.rs:
+/Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/array.rs:
+/Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/array/generated_impl.rs:
+/Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/arrayvec.rs:
+/Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/arrayvec_drain.rs:
+/Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/slicevec.rs:
+/Users/nikita/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.1/src/tinyvec.rs:
